@@ -1,4 +1,4 @@
-# GiftedInstitute-project
+# GiftedInstitute project
 2020년 제주대학교 과학영재교육원 수학융합트랙 장영실캠프 탐구 - 코로나 현황 분석 및 예측 프로그램
 
 프로그램 실행 결과 이미지
